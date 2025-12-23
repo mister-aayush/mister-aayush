@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi 👋 I'm Aayush Shrestha. <br>🎓 BCA Student| Joint-Secretary at KBCITCLUB | 💻 Aspiring Software Developer | 🌱 Lifelong Learner  <br>I love building simple, useful web applications and learning new technologies.<br>
 🔭 I'm currently working on  
 - PHP & MySQL based web projects  
